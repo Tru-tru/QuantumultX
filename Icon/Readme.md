@@ -191,4 +191,4 @@ If there is any infringement, please contact me and I will delete the infringing
 
 ### 致谢:
   感谢上述所有图标的设计师和开发者！<br>
-  Tnanks to all developers and designers above all!
+  Tnanks to all developers and designers fore-mentioned!
