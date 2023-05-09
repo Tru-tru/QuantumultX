@@ -21,9 +21,9 @@
     ```
 
 - [Geo-Location-Checker](Geo-location-checker/Readme.md)
-```conf
-geo_location_checker=http://ip-api.com/json/?fields=21753855&lang=zh-CN, https://raw.githubusercontent.com/Tru-tru/QuantumultX/main/IP.js
-```
+  ```conf
+  geo_location_checker=http://ip-api.com/json/?fields=21753855&lang=zh-CN, https://raw.githubusercontent.com/Tru-tru/QuantumultX/main/IP.js
+  ```
 
 - [Icon & Icon-Gallery](Icon/Readme.md)
 
